@@ -63,7 +63,7 @@ Distinguishing these discourse types helps capture how users communicate rather 
 
 ### Annotation Assistance
 
-> I will primarily use Claude to assist with the annotation workflow. Claude will help pre-label small batches of posts based on my annotation guidelines, allowing me to review the suggested labels more efficiently. Every example will be manually reviewed, and I will make the final labeling decision. To ensure transparency, I will keep track of which examples were initially pre-labeled by Claude before manual verification.
+> I will primarily use Claude to assist with the annotation workflow. Claude will help pre-label small batches of posts based on my annotation guidelines, allowing me to review the suggested labels more efficiently. Every example will be manually reviewed, and I will make the final labeling decision.
 
 ### Failure Analysis
 
