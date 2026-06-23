@@ -9,10 +9,10 @@
   1. The President of Turkish Football Federation has called on the Justice Minister to imprison those who criticize the national team.
   2. Cape Verde manager Bubista presented gifts to Uruguay manager Marcelo Bielsa before the match
 
-- Hot Take - `a bold, confident opinion stated without supporting evidence. The claim might be true, but the post asserts rather than argues.`
+- Hot Take - `A bold, confident opinion stated without supporting evidence. The claim might be true, but the post asserts rather than argues.`
   Two example Posts:
   1. That group would be designated as a terrorist organization
-  2. Messi's goal shouldn't have stood. Clear foul in the build up.
+  2. Messi is undisputedly the GOAT.
 
 - Reaction - `Expresses an emotional, humorous, or personal response to an event, post, or discussion without presenting structured reasoning.`
   Two example Posts:
