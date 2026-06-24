@@ -27,8 +27,8 @@ The objective was to determine whether a fine-tuned transformer model could outp
 | Label    | Count |
 | -------- | ----: |
 | News     |    65 |
-| Hot Take |    63 |
-| Reaction |    71 |
+| Hot Take |    64 |
+| Reaction |    70 |
 
 The dataset is approximately balanced across all three classes.
 
